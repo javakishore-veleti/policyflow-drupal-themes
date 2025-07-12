@@ -1,0 +1,6 @@
+name: PolicyFlow Partner Theme
+type: theme
+description: 'Partner Theme for the PolicyFlow platform'
+core_version_requirement: ^10
+base theme: policyflow_base_theme
+package: Custom

@@ -1,0 +1,14 @@
+name: policyflow_custom_theme
+type: theme
+description: 'Custom theme for PolicyFlow Drupal portals'
+core_version_requirement: ^10
+base theme: classy
+
+libraries:
+  - policyflow_custom_theme/global-styling
+
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  footer: Footer

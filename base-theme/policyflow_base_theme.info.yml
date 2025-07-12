@@ -1,0 +1,6 @@
+name: PolicyFlow Base Theme
+type: theme
+description: 'Base Theme for the PolicyFlow platform'
+core_version_requirement: ^10
+base theme: stable
+package: Custom

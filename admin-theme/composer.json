@@ -1,0 +1,11 @@
+{
+  "name": "policyflow/admin-theme",
+  "type": "drupal-theme",
+  "description": "Admin Theme for PolicyFlow platform",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "extra": {
+    "installer-name": "policyflow_admin_theme"
+  }
+}

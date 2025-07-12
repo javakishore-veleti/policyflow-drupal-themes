@@ -1,0 +1,6 @@
+name: PolicyFlow Compliance Theme
+type: theme
+description: 'Compliance Theme for the PolicyFlow platform'
+core_version_requirement: ^10
+base theme: policyflow_base_theme
+package: Custom

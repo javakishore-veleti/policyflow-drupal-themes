@@ -1,0 +1,6 @@
+name: PolicyFlow Customer Theme
+type: theme
+description: 'Customer Theme for the PolicyFlow platform'
+core_version_requirement: ^10
+base theme: policyflow_base_theme
+package: Custom
