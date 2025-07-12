@@ -1,11 +1,14 @@
 {
   "name": "policyflow/customer-theme",
+  "description": "Drupal theme for PolicyFlow Customer Portal",
   "type": "drupal-theme",
-  "description": "Customer Theme for PolicyFlow platform",
-  "license": "MIT",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "drupal/core": "^10"
+  },
   "extra": {
-    "installer-name": "policyflow_customer_theme"
-  }
+    "installer-name": "customer_theme"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
